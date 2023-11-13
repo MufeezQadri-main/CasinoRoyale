@@ -142,3 +142,4 @@ The pattern on which the winning chips are calculated is selected from the middl
 
 
 ############################################################
+Copywrite by Mufeez.
